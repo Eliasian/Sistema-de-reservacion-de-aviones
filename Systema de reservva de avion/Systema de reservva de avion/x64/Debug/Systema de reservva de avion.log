@@ -1,0 +1,40 @@
+﻿  Administrador.cpp
+  AdministradorDeSesion.cpp
+  Cliente.cpp
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,7): error C2039: 'shared_str': is not a member of 'std'
+  (compiling source file 'AdministradorDeSesion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iostream(19,1):
+      see declaration of 'std'
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,17): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'AdministradorDeSesion.cpp')
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'AdministradorDeSesion.cpp')
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,64): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'AdministradorDeSesion.cpp')
+  
+  Reservacion.cpp
+  Usuario.cpp
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,7): error C2039: 'shared_str': is not a member of 'std'
+  (compiling source file 'Usuario.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,17): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Usuario.cpp')
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Usuario.cpp')
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(33,64): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Usuario.cpp')
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\Usuario.cpp(49,40): error C2039: 'getSesionUsuario': is not a member of 'AdministradorDeSesion'
+      C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\AdministradorDeSesion.h(7,7):
+      see declaration of 'AdministradorDeSesion'
+  
+C:\cpp codes\Systema de reservva de avion\Systema de reservva de avion\Usuario.cpp(50,48): error C3536: 'usuario': cannot be used before it is initialized
+  Vuelo.cpp
+  Generating Code...
